@@ -1,4 +1,4 @@
---Explatory 
+--Exploration  
 
 SELECT * 
 FROM `singular-backup-336021.Project1.CovidDeath` 
